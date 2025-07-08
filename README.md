@@ -11,14 +11,14 @@ A simple and interactive Tic Tac Toe game built using **HTML**, **CSS**, and **J
 
 ## 🚀 Demo
 
-You can try the live version [here](#) *(replace with your deployed link)*
+You can try the live version [here](#) 
 
 
 ## 🛠️ Technologies Used
 
 - HTML5
-- CSS3 (Flexbox)
-- Vanilla JavaScript (ES6)
+- CSS3 
+- Vanilla JavaScript
 
 
 ## 🧠 How to Play
