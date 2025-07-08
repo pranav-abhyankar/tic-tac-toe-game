@@ -11,7 +11,7 @@ A simple and interactive Tic Tac Toe game built using **HTML**, **CSS**, and **J
 
 ## 🚀 Demo
 
-You can try the live version [here](#) 
+You can try the live version [here](https://pranav-abhyankar.github.io/tic-tac-toe-game/) 
 
 
 ## 🛠️ Technologies Used
